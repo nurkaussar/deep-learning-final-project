@@ -1,6 +1,6 @@
 # Project Proposal: Facial Emotion Recognition using Deep Learning
 
-**Student:** [Your Name/Surname]  
+**Student:** Muner Nurkaussar  
 **Topic:** Image Classification (Computer Vision)  
 **Task:** Recognition of 7 basic human emotions from facial images.
 
